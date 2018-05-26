@@ -1,0 +1,6 @@
+﻿  Generating code
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\monster.cpp(39): warning C4715: 'Monster::valid_move': not all control paths return a value
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Space Fighter! Fight or Flight.vcxproj -> C:\Users\wwhea\Desktop\Completed Projects\Space Fighter! Fight or Flight (2nd Edition)\Space Fighter! Fight or Flight\Release\Space Fighter! Fight or Flight.exe
+  Space Fighter! Fight or Flight.vcxproj -> C:\Users\wwhea\Desktop\Completed Projects\Space Fighter! Fight or Flight (2nd Edition)\Space Fighter! Fight or Flight\Release\Space Fighter! Fight or Flight.pdb (Full PDB)

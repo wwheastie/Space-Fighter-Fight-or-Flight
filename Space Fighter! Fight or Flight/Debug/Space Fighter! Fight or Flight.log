@@ -1,0 +1,16 @@
+﻿  Sprite.cpp
+  Player.cpp
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\player.cpp(42): warning C4309: '=': truncation of constant value
+  Monster.cpp
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\monster.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Level.cpp
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\level.cpp(29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\level.cpp(29): warning C4309: 'initializing': truncation of constant value
+  Game.cpp
+  Bullet.cpp
+  AIList.cpp
+  Generating Code...
+c:\users\wwhea\desktop\completed projects\space fighter! fight or flight (2nd edition)\space fighter! fight or flight\space fighter! fight or flight\monster.cpp(39): warning C4715: 'Monster::valid_move': not all control paths return a value
+  Space Fighter! Fight or Flight.vcxproj -> C:\Users\wwhea\Desktop\Completed Projects\Space Fighter! Fight or Flight (2nd Edition)\Space Fighter! Fight or Flight\Debug\Space Fighter! Fight or Flight.exe
+  Space Fighter! Fight or Flight.vcxproj -> C:\Users\wwhea\Desktop\Completed Projects\Space Fighter! Fight or Flight (2nd Edition)\Space Fighter! Fight or Flight\Debug\Space Fighter! Fight or Flight.pdb (Partial PDB)
