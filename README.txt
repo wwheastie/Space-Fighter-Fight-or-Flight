@@ -5,4 +5,4 @@ How to Run Application:
 To run this application go to Release and run.exe
 
 How to View Source Code:
-In the root folder open the .sln file “Space Fighter! Fight or Flight” in Visual Studio
+In the project root folder open the .sln file “Space Fighter! Fight or Flight” in Visual Studio
